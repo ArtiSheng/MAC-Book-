@@ -97,6 +97,20 @@ xcodebuild -project 禁用自带键盘.xcodeproj -scheme 禁用自带键盘 -con
 - 如果守护进程异常退出，可以在终端手动执行 `sudo pkill -f KeyboardDaemon` 恢复键盘
 - 应用需要 **辅助功能权限**（系统偏好设置 → 隐私与安全性 → 辅助功能）
 
-## 📄 License
+## 📄 开源许可
 
-[MIT License](LICENSE)
+本项目采用 **GNU 通用公共许可证 v3.0（GPLv3）** 许可证。这意味着您可以自由使用、修改和分发本软件，但是：
+
+- 任何基于本软件的衍生作品必须以相同的许可证发布
+- 必须保留原始版权声明
+- 您必须明确说明您对原始代码所做的任何更改
+
+详细许可条款请参阅项目根目录下的 [LICENSE](LICENSE) 文件。
+
+## 📞 联系方式
+
+如有任何问题或建议，欢迎通过以下方式联系：
+
+- **GitHub Issues**：[提交问题](https://github.com/ArtiSheng/MAC-Book-/issues)
+- **电子邮件**：cc@artisheng.vip
+- **QQ**：3447478882
